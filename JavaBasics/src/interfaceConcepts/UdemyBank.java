@@ -57,4 +57,10 @@ public class UdemyBank implements BankingClient,InvestmentClient{
 		// TODO Auto-generated method stub
 		
 	}
+
+	@Override
+	public void generalInvestment() {
+		// TODO Auto-generated method stub
+		
+	}
 }
