@@ -55,7 +55,7 @@ public class UdemyBank implements BankingClient,InvestmentClient{
 	@Override
 	public void domainInvestment() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("Domain");
 	}
 
 	@Override
