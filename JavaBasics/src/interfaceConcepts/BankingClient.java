@@ -2,7 +2,7 @@ package interfaceConcepts;
 
 public interface BankingClient {
 	
-	//Add methods which are required by client but not with implementation.
+	//Add methods which are required by client but not with implementation..
 	
 	public void payCreditCardAmount();
 	
